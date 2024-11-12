@@ -133,5 +133,8 @@ Se precisar de qualquer coisa ou tiver dúvidas durante o processo, não hesite 
 <p align="center">
   <img src="https://image-placeholder-url" width="40px">
   <br>
-  Fale com a gente: <strong></strong>
+  Fale com a gente(e-mail): <strong></strong>
 </p>
+
+
+
